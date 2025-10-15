@@ -123,3 +123,6 @@ else:
                     st.info("Add more numeric columns in your query for chart visualization.")
         except Exception as e:
             st.error(f"❌ Error executing query: {e}")
+
+
+#test
