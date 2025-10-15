@@ -39,7 +39,7 @@ tables = get_tables(PG_SCHEMA)
 # =========================
 # 3. Streamlit UI
 # =========================
-st.set_page_config(page_title="📊 Jaffle Shop Data Explorer", layout="wide")
+st.set_page_config(page_title=" Jaffle Shop Data Explorer", layout="wide")
 st.title("📊 Jaffle Shop Data Explorer")
 
 # Sidebar
